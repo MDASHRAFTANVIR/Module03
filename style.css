@@ -150,10 +150,10 @@ body {
 .form fieldset {
     padding: 10px;
     border: 2px solid rgb(50, 48, 48);
+    margin-bottom: 10px;
     
 }
 .form fieldset label {
     display: block;
     font-size: 16px;
-
 }
