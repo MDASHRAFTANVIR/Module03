@@ -157,3 +157,36 @@ body {
     display: block;
     font-size: 16px;
 }
+
+
+/* Final Part Start Here  */
+
+.final {
+    background-color: bisque;
+    padding: 30px;
+    
+}
+
+.art {
+    margin-bottom: 20px;
+}
+
+.art p {
+    width: 60%;
+    margin-top: 15px;
+    text-align: left;
+    display: block;
+    margin-bottom: 15px;
+}
+
+.art a {
+    text-decoration: none;
+    background-color: rgb(15, 94, 94);
+    padding: 8px 18px;
+    color: whitesmoke;
+    border-radius: 6px;
+}
+
+.art a:hover {
+    background-color: darkblue;
+}
